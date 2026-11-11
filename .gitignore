@@ -1,0 +1,13 @@
+# Weights & Models
+*.gguf
+*.bin
+models/
+
+# Logs & temporary files
+*.log
+*.pid
+__pycache__/
+*.pyc
+
+# Local system artifacts
+*.bak.*
